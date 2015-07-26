@@ -5,5 +5,5 @@ This repo contains the supporting documentation and files for a simple shiny app
 
 1. ui.R used to generate the shiny app
 2. server.R second file needed to generate the shiny app
-3. Ackerman Developing Data Products Project.md is the Markdown file that generates the R Presenter presentation describing the shiny app
-4. Ackerman Developing Data Products Project.html is a HTML compiled from the .md file
+3. Developing Data Products Project.md is the Markdown file that generates the R Presenter presentation describing the shiny app
+4. Developing Data Products Project.html is a HTML compiled from the .md file
